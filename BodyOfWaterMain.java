@@ -5,8 +5,8 @@ public class BodyOfWaterMain {
 // }
 
 public static void main(String[] args) {
-BodyOfWater b = new BodyOfWater("Atlantic", 666, 16.6, false);
-BodyOfWater b1 = new BodyOfWater("Pacific", 555, 15.5, false );
+BodyOfWater b = new BodyOfWater("Helen", 114, 11.4, false);
+BodyOfWater b1 = new BodyOfWater("Jim", 514, 51.4, false );
 
 System.out.println(b.name());
 System.out.println(b1.name());
