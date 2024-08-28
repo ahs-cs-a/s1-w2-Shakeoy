@@ -46,5 +46,5 @@ return avgDepth;
 
 public boolean isSaltWater(){
 return isSaltWater;
-}
-}
+    }
+ }
